@@ -1,6 +1,7 @@
 # android_music_player
 <p> 
 Android Music Player, kullanıcıların müzik koleksiyonlarını Android cihazlarda çalmasına ve yönetmesine olanak tanıyan bir uygulamadır. Uygulama, sağlanan bir JSON bağlantısından müzik verilerini alır ve gelecekte kullanmak üzere Firebase Firestore'da depolar.
+</p> 
 <p> 
 Müzik çalma: Müzik koleksiyonunuzu doğrudan uygulama içinde çalmanın keyfini çıkarın.
 JSON veri ayrıştırma: Uygulama, ilk başlatmada sağlanan bir bağlantıdan JSON verilerini ayrıştırır ve bunları müzik nesnelerine dönüştürür.
